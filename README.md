@@ -29,4 +29,4 @@ __Melhoria 1__, _Melhoria 2..._
 
 #### Imagem Local
 
-![Logo do JavaScript](img/javascript.png)
+![Logo do JavaScript](img/logo-javascript-icon-1024.png)
