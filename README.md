@@ -54,3 +54,10 @@ function soma(a,b){
 
 var resultado = soma(3,6)
 ```
+
+## Lista de tarefas a fazer:
+
+ - [x] Área de membros
+ - [ ] Integração com outros pagamentos
+ - [ ] Sistema de bônus
+ - [x] CSS rodapé 
