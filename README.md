@@ -26,3 +26,7 @@ __Melhoria 1__, _Melhoria 2..._
    3. CSS diferente para grupos de cliente
 2. Integração com outros pagamentos
 3. Sistema de bônus para a primeira compra
+
+#### Imagem Local
+
+![Logo do JavaScript](img/JavaScript-logo.png)
