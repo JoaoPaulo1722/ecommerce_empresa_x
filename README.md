@@ -42,3 +42,5 @@ __Melhoria 1__, _Melhoria 2..._
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuidor principal: https://www.github.com/JoaoPaulo1722
+
+[![Logo Node Js](https://logospng.org/download/node-js/logo-node-js-1024.png)]
