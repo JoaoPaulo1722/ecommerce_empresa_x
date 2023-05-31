@@ -43,4 +43,4 @@ __Melhoria 1__, _Melhoria 2..._
 
 Contribuidor principal: https://www.github.com/JoaoPaulo1722
 
-[![Logo Node Js](https://logospng.org/download/node-js/logo-node-js-1024.png)]
+[![Logo Node Js](https://logospng.org/download/node-js/logo-node-js-1024.png)](https://www.github.com/JoaoPaulo1722)
