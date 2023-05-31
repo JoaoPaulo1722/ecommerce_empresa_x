@@ -30,3 +30,7 @@ __Melhoria 1__, _Melhoria 2..._
 #### Imagem Local
 
 ![Logo do JavaScript](img/logo-javascript-icon-1024.png)
+
+#### Imagem externa
+
+![Logo Node Js](https://logospng.org/download/node-js/logo-node-js-1024.png)
